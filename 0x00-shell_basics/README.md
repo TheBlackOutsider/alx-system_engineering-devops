@@ -7,3 +7,4 @@
 6-firstdirectorys : create a directory
 7-movethatfile : move file to another directory
 8-firstdelete : a shell command to delete a file
+9-firstdirdeletion : a shell command to delete a empty directory
