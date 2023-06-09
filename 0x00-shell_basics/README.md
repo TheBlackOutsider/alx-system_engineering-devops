@@ -5,3 +5,4 @@
 4-listmorefiles : display the current content includes hidden files in long format
 5-listfilesdigitonlys : display the current content includes hidden files in long format with numeric UID and GID
 6-firstdirectorys : create a directory
+7-movethatfile : move file to another directory
