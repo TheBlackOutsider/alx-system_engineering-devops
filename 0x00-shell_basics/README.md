@@ -2,3 +2,4 @@
 1-listit :hold a command to list a content of the current directory
 2-bring_me_home :hold a command to bring to user home directory
 3-listfiles : display the current content in long format
+4-listmorefiles : display the current content includes hidden files in long format
