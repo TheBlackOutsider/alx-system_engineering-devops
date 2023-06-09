@@ -9,3 +9,4 @@
 8-firstdelete : a shell command to delete a file
 9-firstdirdeletion : a shell command to delete a empty directory
 10-back : a shell command to back to previous directory
+10-back : a shell command to display contents of different directories in same timey
