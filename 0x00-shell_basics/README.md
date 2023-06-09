@@ -8,3 +8,4 @@
 7-movethatfile : move file to another directory
 8-firstdelete : a shell command to delete a file
 9-firstdirdeletion : a shell command to delete a empty directory
+10-back : a shell command to back to previous directory
