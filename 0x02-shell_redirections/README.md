@@ -4,3 +4,4 @@ This is project shell I/O redirections directory
 2-hellofile: a script that displays the content of the /etc/passwd file 
 3-twofiles : display the content of /etc/passwd and /etc/hosts
 4-lastlines : display the 10 last lines of etc/passwd
+5-firstlines : display the 10 first lines of etc/passwd
