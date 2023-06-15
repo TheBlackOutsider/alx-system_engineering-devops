@@ -6,3 +6,4 @@ This is project shell I/O redirections directory
 4-lastlines : display the 10 last lines of etc/passwd
 5-firstlines : display the 10 first lines of etc/passwd
 6-third_line : display third lines
+7-file create a file with the special character in its name
