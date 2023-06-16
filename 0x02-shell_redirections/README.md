@@ -9,3 +9,4 @@ This is project shell I/O redirections directory
 7-file create a file with the special character in its name
 8-cwd_state : writes the output of a command into a file 
 9-duplicate_last_line : duplicate the last line of iacta file 
+10-no_more_js : deletes all .js files present in the current directory and subfolders 
