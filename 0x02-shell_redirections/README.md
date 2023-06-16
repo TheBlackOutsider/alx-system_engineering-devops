@@ -21,3 +21,4 @@ This is project shell I/O redirections directory
 19-AZ : replace all characters A and c from input to Z and e respectively
 20-hiago: a script used to delete a character from standard input
 21-reverse : reverse a input or other 
+22-users_and_homes: write a script that displays all users and their home directories, sorted by users.
