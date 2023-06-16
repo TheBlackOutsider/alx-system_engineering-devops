@@ -10,3 +10,4 @@ This is project shell I/O redirections directory
 8-cwd_state : writes the output of a command into a file 
 9-duplicate_last_line : duplicate the last line of iacta file 
 10-no_more_js : deletes all .js files present in the current directory and subfolders 
+11-directories : count the number of directories and subfolders 
