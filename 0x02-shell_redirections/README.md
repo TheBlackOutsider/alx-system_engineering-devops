@@ -7,3 +7,4 @@ This is project shell I/O redirections directory
 5-firstlines : display the 10 first lines of etc/passwd
 6-third_line : display third lines
 7-file create a file with the special character in its name
+8-cwd_state : writes the output of a command into a file 
