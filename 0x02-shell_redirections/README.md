@@ -12,3 +12,4 @@ This is project shell I/O redirections directory
 10-no_more_js : deletes all .js files present in the current directory and subfolders 
 11-directories : count the number of directories and subfolders 
 12-newest_files: create a script that displays the 10 newest files in the current directory 
+13-unique: create a script that takes a list of words as input and prints only words that appear exactly once
