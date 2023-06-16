@@ -11,3 +11,4 @@ This is project shell I/O redirections directory
 9-duplicate_last_line : duplicate the last line of iacta file 
 10-no_more_js : deletes all .js files present in the current directory and subfolders 
 11-directories : count the number of directories and subfolders 
+12-newest_files: create a script that displays the 10 newest files in the current directory 
