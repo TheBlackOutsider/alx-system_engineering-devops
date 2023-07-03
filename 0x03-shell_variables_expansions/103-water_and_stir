@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=bestchol $((WATER + STIR))" 
+echo "$(printf "%d" "$((WATER + STIR))")"
