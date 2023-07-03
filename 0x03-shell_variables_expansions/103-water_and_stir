@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(printf "%d" "$((WATER + STIR))")"
+echo "$(echo \"ibase=water; $WATER + ibase=stir; $STIR\" | tr '[a-z]' '[A-Z]' | bc -l | xargs printf \"obase=bestchol; %d\n\" | bc)"
