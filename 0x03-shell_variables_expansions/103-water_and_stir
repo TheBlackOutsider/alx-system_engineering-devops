@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(echo \"ibase=water; $WATER + ibase=stir; $STIR\" | tr '[a-z]' '[A-Z]' | bc -l | xargs printf \"obase=bestchol; %d\n\" | bc)"
+echo "$(echo "obase=bestchol; result_decimal=\$((\${WATER//[!0-9]}+\${STIR//[!0-9]})); echo \$result_decimal" | bash)"
