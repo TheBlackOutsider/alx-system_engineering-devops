@@ -15,3 +15,4 @@ This is directory for Shell variables expansions
 12-combinations : a script that prints all possible combinations of two letters, except oo
 13-print_float /  a script that prints a number with two decimal places
 100-decimal_to_hexadecimal : convert a number to decimal
+101-rot13: a script that encodes and decodes text using the rot13 encryption. Assume ASCII
